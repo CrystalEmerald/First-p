@@ -1,1 +1,1 @@
-bloomalonewithcodebloom.netlify.app
+https://bloomalonewithcodebloom.netlify.app

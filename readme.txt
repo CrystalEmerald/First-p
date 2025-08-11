@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c115980-6b37-41a7-86d2-0605cca5cfa6/deploy-status)](https://app.netlify.com/projects/bloomalonewithcodebloom/deploys)
